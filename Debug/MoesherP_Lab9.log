@@ -1,0 +1,4 @@
+﻿  MoesherP_Lab9.cpp
+c:\users\paul\desktop\moesherp_lab9\moesherp_lab9.cpp(122): warning C4129: 'N': unrecognized character escape sequence
+c:\users\paul\desktop\moesherp_lab9\moesherp_lab9.cpp(73): warning C4101: 'totalrunners': unreferenced local variable
+  MoesherP_Lab9.vcxproj -> C:\Users\Paul\Desktop\MoesherP_Lab9\Debug\MoesherP_Lab9.exe
