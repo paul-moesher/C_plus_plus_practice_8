@@ -1,2 +1,2 @@
-# Runner-Data
-C++ prgram that calls functions to get information about runners.
+# Runner-Data-Tracker
+C++ prgram that calls functions to get data about runners.
